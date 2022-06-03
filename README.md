@@ -1,4 +1,4 @@
 ## Welcome to 5G-MAG's GitHub
 
 ### Links
-[Documentation-and-Architecture](https://5g-mag.github.com/Documentation-and-Architecture/)
+[Documentation-and-Architecture](https://github.com/5G-MAG/Documentation-and-Architecture)
