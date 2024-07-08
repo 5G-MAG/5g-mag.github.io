@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 5G-MAG - Standards & Specifications
-email: daniel.silhavy@fokus.fraunhofer.de
+title: 5G-MAG - MEDIA ACTION GROUP
+email: info@5g-mag.com
 description: >- # this means to ignore newlines until "baseurl:"
   5G-MAG
 baseurl: "" # the subpath of your site, e.g. /blog
