@@ -86,15 +86,15 @@ nav_external_links:
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
-#   - title: Feedback to Specifications
+#  - title: Feedback to Specifications
 #    url: https://github.com/5G-MAG/Standards/projects?query=is%3Aopen
 #    hide_icon: false # set to true to hide the external link icon - defaults to false
 #    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
    
-#   - title: Feedback to Publications
-#    url: https://github.com/5G-MAG/Requests-for-Feedback
-#    hide_icon: false # set to true to hide the external link icon - defaults to false
-#    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+   - title: Feedback to Publications
+    url: https://5g-mag.github.io/Requests-for-Feedback
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
 #   - title: 3GPP SA4 XCHANGE
 #    url: https://5g-mag.github.io/Standards/pages/3gppsa4xchange.html
