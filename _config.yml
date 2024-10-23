@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 5G-MAG - MEDIA ACTION GROUP
+title: 5G-MAG MEDIA ACTION GROUP
 email: info@5g-mag.com
 description: >- # this means to ignore newlines until "baseurl:"
   5G-MAG
@@ -81,10 +81,10 @@ nav_external_links:
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
-#   - title: Standards & Specifications
-#    url: https://5g-mag.github.io/Standards
-#    hide_icon: false # set to true to hide the external link icon - defaults to false
-#    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+  - title: Standards & Specifications
+    url: https://5g-mag.github.io/Standards
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
 #   - title: Feedback to Specifications
 #    url: https://github.com/5G-MAG/Standards/projects?query=is%3Aopen
