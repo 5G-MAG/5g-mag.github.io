@@ -5,41 +5,46 @@ nav_order: 0
 has_children: false
 ---
 
+<img src="./images/Button_Welcome.png">
+
 # Hi, welcome to 5G-MAG's GitHub 👋
 
-The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com) is an international association open to the industry to cooperate in technology development and accelerate its adoption through pragmatic, non-bureaucratic and action-based work.
-- We join efforts to leverage global Internet, 5G-based access technologies and APIs that fuel the media applications of the future.
-- We do not publish our own standards. We prefer to work closely with global standard-setting organizations relevant to the areas of work our members propose.
-- We seek consensus among members and the wider industry with pre-standards work and studies.
-- We help coordinate inputs on service, application and technical requirements among members.
-- Our members elaborate specification profiles, implementation guidelines and educational material with the industry and users in mind.
-- We have established the open-source 5G-MAG Reference Tools Development Programme to bring technologies closer to developers, help validate specifications, build PoCs and demonstrators and drive technology adoption.
-- We aim to be open, agile, pragmatic and instrumental to the industry. Therefore some of our activities are publicly handled within this GitHub.
+The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com) is an international association driving standards for connected media experiences and developing software to catalyse market adoption.
 
-## 💻 Repos for 5G-MAG REFERENCE TOOLS
+In this **GitHub**... If you know already what you are looking for - go to the [Repositories](https://github.com/orgs/5G-MAG/repositories)
+
+<br><br>
+
+<a href="https://5g-mag.github.io/Tech/"><img src="./images/Button_RT.png"><a/>
+
+All about our reference implementations and on-going projects.
 ### ENTRY POINT: [https://5g-mag.github.io/Getting-Started/](https://5g-mag.github.io/Getting-Started/)
-- Complete information about the development programme can be found at [http://developer.5g-mag.com/](http://developer.5g-mag.com/).
+More background information at [http://developer.5g-mag.com/](http://developer.5g-mag.com/).
 
-## 🔧 Repos for STANDARDS and SPECIFICATIONS
+<br><br>
+
+<a href="https://5g-mag.github.io/Tech/"><img src="./images/Button_Tech.png"><a/>
+
+Outcomes of the Work Items.
+### ENTRY POINT: [https://5g-mag.github.io/Tech/](https://5g-mag.github.io/Tech/)
+More background information at [http://www.5g-mag.com/technology](http://www.5g-mag.com/technology).
+
+<br><br>
+
+<a href="https://5g-mag.github.io/Standards/"><img src="./images/Button_Std.png"><a/>
+
+All about specifications, navigating though them, issues and feedback to SDOs.
 ### ENTRY POINT: [https://5g-mag.github.io/Standards/](https://5g-mag.github.io/Standards/)
-#### Relevant Specifications and Profiling
-- This [Github page](https://5g-mag.github.io/Standards/) contains specifications in the scope of 5G-MAG's Areas of Work.
-- More information can be found at https://www.5g-mag.com/standards.
+More background information at [http://www.5g-mag.com/standards](http://www.5g-mag.com/standards).
 
-#### Feedback on Technical Specifications
-- 5G-MAG also maintains under this GitHub repository several projects open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. These related to [Specifications maintained by external SDOs](https://5g-mag.github.io/Standards/pages/feedback.html#feedback-on-technical-specifications-maintained-by-external-sdos) as well as [Specifications maintained by 5G-MAG](https://5g-mag.github.io/Standards/pages/feedback.html#feedback-on-technical-specifications-maintained-by-5g-mag).
-- More information can be found at [https://www.5g-mag.com/feedback](https://www.5g-mag.com/feedback).
+<br><br>
 
-#### 3GPP SA4 XCHANGE
-- [5G-MAG and 3GPP SA4](https://www.5g-mag.com/post/5g-mag-xchange-with-3gpp-sa4) organize regular joint meetings to discuss issues found on standards.
-- Agenda and Notes are [here](https://github.com/5G-MAG/Standards/wiki/3GPP-SA4-XCHANGE---Notes).
+<a href="https://5g-mag.github.io/Requests-for-Feedback/"><img src="./images/Button_RfF.png"><a/>
 
-## 📢 Repos for REQUESTS FOR FEEDBACK on 5G-MAG Publications 
+Comment and provide feeback to our publications and outcomes.
 ### ENTRY POINT: [https://5g-mag.github.io/Requests-for-Feedback/](https://5g-mag.github.io/Requests-for-Feedback/)
-- 5G-MAG maintains this [GitHub repository](https://github.com/5G-MAG/Requests-for-Feedback) open to the community to provide feedback on 5G-MAG Publications.
-- More information can be found at [https://www.5g-mag.com/feedback](https://www.5g-mag.com/feedback).
 
-## 📧 Contact
-- For general information about 5G-MAG, [send us an e-mail](mailto:info@5g-mag.com). For 5G-MAG Reference Tools, follow the instructions [here](https://www.5g-mag.com/community).
+<br><br>
 
 Enjoy! 💪
+
