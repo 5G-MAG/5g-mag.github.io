@@ -15,7 +15,7 @@ In this **GitHub**... If you know already what you are looking for - go to the [
 
 <br><br>
 
-<a href="https://5g-mag.github.io/Tech/"><img src="./assets/images/Button_RT.png"><a/>
+<a href="https://5g-mag.github.io/Getting-Started/"><img src="./assets/images/Button_RT.png"><a/>
 
 All about our reference implementations and on-going projects.
 ### ENTRY POINT: [https://5g-mag.github.io/Getting-Started/](https://5g-mag.github.io/Getting-Started/)
