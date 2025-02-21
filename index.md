@@ -7,11 +7,9 @@ has_children: false
 
 <img src="./assets/images/Button_Welcome.png">
 
-# Hi, welcome to 5G-MAG's GitHub 👋
-
 The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com) is an international association driving standards for connected media experiences and developing software to catalyse market adoption.
 
-In this **GitHub**... If you know already what you are looking for - go to the [Repositories](https://github.com/orgs/5G-MAG/repositories)
+If you know already what you are looking for, go to the [Repositories](https://github.com/orgs/5G-MAG/repositories)
 
 <br><br>
 
