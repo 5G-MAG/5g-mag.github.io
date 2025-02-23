@@ -5,7 +5,7 @@ nav_order: 0
 has_children: false
 ---
 
-<img src="./assets/images/Button_Welcome.png">
+<img src="./assets/images/Banner_Welcome.png">
 
 The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com) is an international association driving standards for connected media experiences and developing software to catalyse market adoption.
 
