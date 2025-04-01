@@ -76,22 +76,22 @@ plugins:
 
 # External navigation links
 nav_external_links:
-  - title: 5G-MAG Reference Tools
+  - title: 5G-MAG - Reference Tools
     url: https://5g-mag.github.io/Getting-Started
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
-  - title: Tech
+  - title: 5G-MAG - Technoogy
     url: https://5g-mag.github.io/Tech
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
-  - title: Standards
+  - title: 5G-MAG - Standards
     url: https://5g-mag.github.io/Standards
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
   
-  - title: Requests for Feedback
+  - title: 5G-MAG - Requests for Feedback
     url: https://5g-mag.github.io/Requests-for-Feedback
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
