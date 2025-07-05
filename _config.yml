@@ -28,6 +28,9 @@ twitter_username: dsilhavy
 github_username:  dsilhavy
 logo: "/assets/images/5g-mag-logo-with-text.png"
 
+ga_tracking: G-MD22P725DR
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings
+
 aux_links:
   "5G-MAG on GitHub":
     - "//github.com/5G-MAG/"
