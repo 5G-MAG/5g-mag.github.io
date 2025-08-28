@@ -49,11 +49,4 @@ More information at [http://www.5g-mag.com/standards](http://www.5g-mag.com/stan
 
 <br><br>
 
-<a href="https://5g-mag.github.io/Requests-for-Feedback/"><img src="../assets/images/Button_RfF.png"><a/>
-
-Comment and provide feeback to our publications and outcomes.
-## Requests for Feedback: [https://5g-mag.github.io/Requests-for-Feedback/](https://5g-mag.github.io/Requests-for-Feedback/)
-
-<br><br>
-
 Enjoy! 💪
