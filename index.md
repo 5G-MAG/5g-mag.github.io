@@ -5,7 +5,7 @@ nav_order: 0
 has_children: false
 ---
 
-<img src="../assets/images/Banner_Welcome.png">
+<img src="./assets/images/Banner_Welcome.png">
 
 The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com)  is an international non-profit association fostering collaboration across the media and connectivity industries. Our members:
 
@@ -19,7 +19,7 @@ The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com)  is an international non
 
 <br><br>
 
-<a href="https://5g-mag.github.io/Getting-Started/"><img src="../assets/images/Button_RT.png"><a/>
+<a href="https://5g-mag.github.io/Getting-Started/"><img src="./assets/images/Button_RT.png"><a/>
 
 All about our reference implementations and on-going projects.
 ## Getting Started: [https://5g-mag.github.io/Getting-Started](https://5g-mag.github.io/Getting-Started/)
@@ -28,7 +28,7 @@ More information at [http://developer.5g-mag.com/](http://developer.5g-mag.com/)
 
 <br><br>
 
-<a href="https://5g-mag.github.io/Tech/"><img src="../assets/images/Button_Tech.png"><a/>
+<a href="https://5g-mag.github.io/Tech/"><img src="./assets/images/Button_Tech.png"><a/>
 
 Documentation on Technology.
 ## Tech: [https://5g-mag.github.io/Tech](https://5g-mag.github.io/Tech/)
@@ -37,7 +37,7 @@ More information at [http://www.5g-mag.com/technology](http://www.5g-mag.com/tec
 
 <br><br>
 
-<a href="https://5g-mag.github.io/Standards/"><img src="../assets/images/Button_Std.png"><a/>
+<a href="https://5g-mag.github.io/Standards/"><img src="./assets/images/Button_Std.png"><a/>
 
 All about specifications, navigating though them, issues and feedback to SDOs.
 ## Standards: [https://5g-mag.github.io/Standards](https://5g-mag.github.io/Standards/)
