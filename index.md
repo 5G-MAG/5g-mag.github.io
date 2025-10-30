@@ -22,21 +22,21 @@ The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com)  is an international non
 <a href="https://5g-mag.github.io/Getting-Started/"><img src="./assets/images/Button_RT.png"><a/>
 
 All about our reference implementations and on-going projects.
-## Getting Started: [https://5g-mag.github.io/Getting-Started](https://5g-mag.github.io/Getting-Started/)
+## Getting Started: [https://hub.5g-mag.com/Getting-Started](https://5g-mag.github.io/Getting-Started/)
 
 ---
 
 <a href="https://5g-mag.github.io/Tech/"><img src="./assets/images/Button_Tech.png"><a/>
 
 Documentation on Technology.
-## Tech: [https://5g-mag.github.io/Tech](https://5g-mag.github.io/Tech/)
+## Tech: [https://hub.5g-mag.com/Tech](https://5g-mag.github.io/Tech/)
 
 ---
 
 <a href="https://5g-mag.github.io/Standards/"><img src="./assets/images/Button_Std.png"><a/>
 
 All about specifications, navigating though them, issues and feedback to SDOs.
-## Standards: [https://5g-mag.github.io/Standards](https://5g-mag.github.io/Standards/)
+## Standards: [https://hub.5g-mag.com/Standards](https://5g-mag.github.io/Standards/)
 ### Issues: [https://github.com/5G-MAG/Standards/issues](https://github.com/5G-MAG/Standards/issues)
 ### Project board: [https://github.com/5G-MAG/Standards/projects?query=is%3Aopen](https://github.com/5G-MAG/Standards/projects?query=is%3Aopen)
 ### Discussions: [https://github.com/5G-MAG/Standards/discussions](https://github.com/5G-MAG/Standards/discussions)
