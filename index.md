@@ -9,7 +9,7 @@ has_children: false
 
 Through **5G-MAG's Hub**, you can access the **5G-MAG Reference Tools**, our **Technical Resources** and documentation, and up-to-date information on **Standards**.
 
-## Access all repositories here: [https://github.com/orgs/5G-MAG/repositories](https://github.com/orgs/5G-MAG/repositories)
+## Your entry point is here: [hub.5g-mag.com](https://hub.5g-mag.com)
 
 ---
 
