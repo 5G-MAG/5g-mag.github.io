@@ -14,13 +14,11 @@ Through **5G-MAG's Hub**, you can access the **5G-MAG Reference Tools**, our **T
 ---
 
 <table>
-      
   <tr>
-    <td width="33%" align="center"><a href="https://hub.5g-mag.com/Getting-Started/"><img src="https://hub.5g-mag.com/assets/images/Sq_ReferenceTools.png"><a/></td>
-    <td width="33%" align="center"><a href="https://hub.5g-mag.com/Tech/"><img src="https://hub.5g-mag.com/assets/images/Sq_Tech.png"><a/></td>
-    <td width="33%" align="center"><a href="https://hub.5g-mag.com/Standards/"><img src="https://hub.5g-mag.com/assets/images/Sq_Standards.png"><a/></td>
+    <td markdown="span" width="33%" align="center"><a href="https://hub.5g-mag.com/Getting-Started"><img src="https://hub.5g-mag.com/assets/images/Sq_ReferenceTools.png"><a/></td>
+    <td markdown="span" width="33%" align="center"><a href="https://hub.5g-mag.com/Tech"><img src="https://hub.5g-mag.com/assets/images/Sq_Tech.png"><a/></td>
+    <td markdown="span" width="33%" align="center"><a href="https://hub.5g-mag.com/Standards"><img src="https://hub.5g-mag.com/assets/images/Sq_Standards.png"><a/></td>
   </tr>
-      
 </table>
 
 ---
