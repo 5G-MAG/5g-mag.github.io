@@ -14,6 +14,8 @@ has_children: false
 
 Through **5G-MAG's Hub**, you can access our **Technical Resources** and documentation, up-to-date information on **Standards** and all the resources of the **5G-MAG Reference Tools**.
 
+---
+
 <a href="https://hub.5g-mag.com/Tech"><img src="https://hub.5g-mag.com/assets/images/Banner_Tech.png"></a>
 
 ### Go to: [https://hub.5g-mag.com/Tech/](https://hub.5g-mag.com/Tech/)
