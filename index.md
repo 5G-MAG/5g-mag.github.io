@@ -7,6 +7,11 @@ has_children: false
 
 <img src="https://hub.5g-mag.com/assets/images/Banner_Welcome.png">
 
+[Technical Resources](https://hub.5g-mag.com/Tech/){: .btn .btn-blue }
+[Discussions](https://github.com/orgs/5G-MAG/discussions){: .btn .btn-blue }
+[Standards](https://hub.5g-mag.com/Standards/){: .btn .btn-blue }
+[5G-MAG Reference Tools](https://hub.5g-mag.com/Getting-Started/){: .btn .btn-blue }
+
 Through **5G-MAG's Hub**, you can access our **Technical Resources** and documentation, up-to-date information on **Standards** and all the resources of the **5G-MAG Reference Tools**.
 
 ## Your entry point: [hub.5g-mag.com](https://hub.5g-mag.com)
@@ -15,7 +20,7 @@ Through **5G-MAG's Hub**, you can access our **Technical Resources** and documen
 
 <img src="https://hub.5g-mag.com/assets/images/Banner_Tech.png">
 
-## Go to: [https://hub.5g-mag.com/Tech/](https://hub.5g-mag.com/Tech/)
+### Go to: [https://hub.5g-mag.com/Tech/](https://hub.5g-mag.com/Tech/)
 
 The **Tech** section contains the following types of resources:
 
@@ -35,7 +40,7 @@ The **Tech** section contains the following types of resources:
 
 <img src="https://hub.5g-mag.com/assets/images/Banner_Discussions.png">
 
-## Go to: [https://github.com/orgs/5G-MAG/discussions](https://github.com/orgs/5G-MAG/discussions)
+### Go to: [https://github.com/orgs/5G-MAG/discussions](https://github.com/orgs/5G-MAG/discussions)
 
 Open discussions on technology and software related topic.
 
@@ -43,7 +48,7 @@ Open discussions on technology and software related topic.
 
 <img src="https://hub.5g-mag.com/assets/images/Banner_Standards.png">
 
-## Go to: [https://hub.5g-mag.com/Standards/](https://hub.5g-mag.com/Standards/)
+### Go to: [https://hub.5g-mag.com/Standards/](https://hub.5g-mag.com/Standards/)
 
 The **Standards** section contains the following types of resources:
 
@@ -59,7 +64,7 @@ The **Standards** section contains the following types of resources:
 
 <img src="https://hub.5g-mag.com/assets/images/Banner_ReferenceTools.png">
 
-## Go to: [https://hub.5g-mag.com/Getting-Started/](https://hub.5g-mag.com/Getting-Started/)
+### Go to: [https://hub.5g-mag.com/Getting-Started/](https://hub.5g-mag.com/Getting-Started/)
 
 The **Getting-Started** section contains the following types of resources:
 
