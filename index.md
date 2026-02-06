@@ -20,9 +20,8 @@ Through **5G-MAG's Hub**, you can access our **Technical Resources** and documen
 
 ### Go to: [https://hub.5g-mag.com/Tech/](https://hub.5g-mag.com/Tech/)
 
----
-
-The **Tech** section contains the following types of resources:
+<details>
+<summary>The <b>Tech</b> section contains the following types of resources (click to expand)</summary>
 
 * **Architectures and Workflows:** Detailed descriptive pages and diagrams that break down how different components interact.
 
@@ -36,13 +35,14 @@ The **Tech** section contains the following types of resources:
 
 * **Video Resources:** Links to recorded public calls that walk through a particular technology or feature.
 
+</details>
+
+
 ---
 
 <a href="https://github.com/orgs/5G-MAG/discussions"><img src="https://hub.5g-mag.com/assets/images/Banner_Discussions.png"></a>
 
 ### Go to: [https://github.com/orgs/5G-MAG/discussions](https://github.com/orgs/5G-MAG/discussions)
-
----
 
 Open discussions on technology and software related topic.
 
@@ -52,9 +52,8 @@ Open discussions on technology and software related topic.
 
 ### Go to: [https://hub.5g-mag.com/Standards/](https://hub.5g-mag.com/Standards/)
 
----
-
-The **Standards** section contains the following types of resources:
+<details>
+<summary>The <b>Standards</b> section contains the following types of resources (click to expand)</summary>
 
 * **Requirements and Member Inputs:** Consolidated documents detailing technical requirements and contributions submitted by 5G-MAG members to various SDOs.
 
@@ -64,16 +63,17 @@ The **Standards** section contains the following types of resources:
 
 * **Standards Trackers and Work Item Lists:** Organized lists and summaries of relevant 3GPP work items categorized by release, allowing users to track the evolution of specific media-related features.
 
+</details>
+
 ---
 
 <a href="https://hub.5g-mag.com/Getting-Started"><img src="https://hub.5g-mag.com/assets/images/Banner_ReferenceTools.png"></a>
 
 ### Go to: [https://hub.5g-mag.com/Getting-Started/](https://hub.5g-mag.com/Getting-Started/)
 
----
-
-The **Getting-Started** section contains the following types of resources:
-
+<details>
+<summary>The <b>Getting-Started</b> section contains the following types of resources (click to expand)</summary>
+  
 * **Software Repositories and Source Code:** Direct access to the code hosted on GitHub for various reference tools, enabling developers to build, test, and contribute software.
 
 * **Project Roadmaps and Releases:** Detailed tracking of software development and the latest releases of different software projects.
@@ -87,6 +87,8 @@ The **Getting-Started** section contains the following types of resources:
 * **Configuration and Sample Files:** A collection of necessary assets for testing, such as sample media files, Docker configuration scripts, and service announcement examples to facilitate quick deployment.
 
 * **Contributor Guidelines:** Documentation providing structured instructions on how developers and organizations can contribute code, report bugs, and participate in the developer community.
+
+</details>
 
 ---
 
