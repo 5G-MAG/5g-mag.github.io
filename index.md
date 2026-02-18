@@ -11,7 +11,7 @@ Through **5G-MAG's Hub**, you can access our **Technical Resources** and documen
 
 <table>
   <tr>
-    <td markdown="span" align="center"><a href="https://hub.5g-mag.com/Getting-Started/"><img width="70%" style="border:5px solid black;" src="./assets/images/Button_Tech.png"><a/></td>
+    <td markdown="span" align="center"><a href="https://hub.5g-mag.com/Getting-Started/"><img width="70%" style="border:5px solid black;" src="./assets/images/Button_ReferenceTools.png"><a/></td>
     <td markdown="span" align="center"><a href="https://hub.5g-mag.com/Tech/"><img width="70%" style="border:5px solid black;" src="./assets/images/Button_Tech.png"><a/></td>
   </tr>
   <tr>
