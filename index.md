@@ -73,8 +73,15 @@ The <b>Standards</b> section contains the following types of resources:
 
 ### Go to: [https://hub.5g-mag.com/Getting-Started/](https://hub.5g-mag.com/Getting-Started/)
 
-<details>
-<summary>The <b>Getting-Started</b> section contains the following types of resources (click to expand)</summary>
+<table>
+  <tr>
+    <td markdown="span" align="center" width="33%"><a href="https://hub.5g-mag.com/Getting-Started/pages/applications.html"><img style="border:5px solid black;" src="https://hub.5g-mag.com/Getting-Started//assets/images/Category_Application.png" width="95%"><a/></td>
+    <td markdown="span" align="center" width="33%"><a href="https://hub.5g-mag.com/Getting-Started/pages/projects.html"><img style="border:5px solid black;" src="https://hub.5g-mag.com/Getting-Started//assets/images/Category_Projects.png" width="95%"><a/></td>
+    <td markdown="span" align="center" width="33%"><a href="https://hub.5g-mag.com/Getting-Started/pages/testbeds.html"><img style="border:5px solid black;" src="https://hub.5g-mag.com/Getting-Started//assets/images/Category_Testbeds.png" width="95%"><a/></td>
+  </tr>
+</table>
+
+The <b>Getting-Started</b> section contains the following types of resources:
   
 <ul>
   <li><strong>Software Repositories and Source Code:</strong> Direct access to the code hosted on GitHub for various reference tools, enabling developers to build, test, and contribute software.</li>
@@ -85,8 +92,6 @@ The <b>Standards</b> section contains the following types of resources:
   <li><strong>Configuration and Sample Files:</strong> A collection of necessary assets for testing, such as sample media files, Docker configuration scripts, and service announcement examples to facilitate quick deployment.</li>
   <li><strong>Contributor Guidelines:</strong> Documentation providing structured instructions on how developers and organizations can contribute code, report bugs, and participate in the developer community.</li>
 </ul>
-
-</details>
 
 ---
 
